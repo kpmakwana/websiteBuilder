@@ -1,0 +1,14 @@
+
+  .ql-container{
+    font-size: inherit !important ;
+  }
+  
+  .ql-editor{
+    margin: 1% !important;
+    padding: 0% !important;
+    text-align: inherit !important;
+    font: inherit !important;
+  }
+  .ql-tooltip{
+    z-index: 1 !important;
+  }

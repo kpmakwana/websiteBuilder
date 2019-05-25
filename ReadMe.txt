@@ -1,0 +1,1 @@
+implimentaion of seprate data.json file.

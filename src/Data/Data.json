@@ -1,0 +1,55 @@
+[
+    {
+    "type" :"Navbar", 
+    "extra":[]
+    },
+    {
+    "type" :"Header",
+    "extra":[ 
+                "Welcome To Our Studio!",
+                "IT'S NICE TO MEET YOU"
+            ]
+    },
+    { 
+    "type" :"Services",
+    "extra":[
+            "SERVICES",
+            "Lorem ipsum dolor sit amet consectetur.",
+            "E-Commerce",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.",
+            "Responsive Design",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.",
+            "Web Security",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+            ]
+    },
+    {
+    "type" :"About",
+    "extra":
+        [
+            "About",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi velit modi magnam atque iste delectus assumenda inventore nam iusto quo. Facilis, expedita laudantium at itaque soluta aliquid hic obcaecati reprehenderit."
+        ]
+    },
+    {
+    "type" :"Team",
+    "extra":[
+            "Our Amazing Team",
+            "Lorem ipsum dolor sit amet consectetur.",
+            "Kay Garland",
+            "Lead Designer",
+            "Larry Parker",
+            "Lead Marketer",
+            "Diana Pertersen",
+            "Lead Developer",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+        ]
+    },
+    {
+    "type": "Contact",
+    "extra":[
+            "Contact Us",
+            "Lorem ipsum dolor sit amet consectetur."
+        ]
+    }
+]
