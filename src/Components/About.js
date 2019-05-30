@@ -45,7 +45,7 @@ export default class About extends Component {
   render() {
     return (
     <section id="about">
-    { (this.props.editMode) ?
+    { ((this.props.editMode) &&  (this.props.index!==2) )?
         <button className='btn btn-primary mx-3' type="button" 
             onClick= {()=>{
             // console.log(this.props.extra);

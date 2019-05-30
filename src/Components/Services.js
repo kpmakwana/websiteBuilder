@@ -45,7 +45,7 @@ export default class  Services extends Component {
       <div>
       <section id="services">
       
-      { (this.props.editMode) ?
+      { ((this.props.editMode) &&  (this.props.index!==2) )?
         <button className='btn btn-primary mx-3' type="button" 
             onClick= {()=>{
               this.props.swapUp(this.props.index)}}
