@@ -7,7 +7,7 @@
     "express": "^4.16.4",
     "fs": "0.0.1-security",
     "gh-pages": "^2.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-html-parser": "^2.0.2",
